@@ -4,12 +4,13 @@ import 'package:assunta/classes/user_class.dart';
 import 'package:assunta/pages/homepage/info_page.dart';
 import 'package:assunta/pages/homepage/profile_page.dart';
 import 'package:assunta/services/database.dart';
-import 'file:///C:/Users/Roberto/flutter_projects/assunta/lib/pages/homepage/food_page.dart';
-import 'file:///C:/Users/Roberto/flutter_projects/assunta/lib/pages/homepage/cart_page.dart';
 import 'package:bottom_navy_bar/bottom_navy_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
+
+import 'cart_page.dart';
+import 'food_page.dart';
 
 class HomePage extends StatefulWidget {
   @override

@@ -1,6 +1,7 @@
-import 'file:///C:/Users/Roberto/flutter_projects/assunta/lib/pages/authpages/loading_page.dart';
+
 import 'package:assunta/services/auth.dart';
 import 'package:flutter/material.dart';
+import 'loading_page.dart';
 import 'waves.dart';
 
 class LoginPage extends StatefulWidget {

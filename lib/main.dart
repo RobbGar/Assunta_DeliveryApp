@@ -1,6 +1,6 @@
+import 'package:assunta/pages/authpages/login_wrapper.dart';
+import 'package:assunta/pages/homepage/home_page_main.dart';
 import 'package:assunta/pages/orderpage/order_finished.dart';
-
-import 'file:///C:/Users/Roberto/flutter_projects/assunta/lib/pages/authpages/login_wrapper.dart';
 import 'package:assunta/classes/food_class.dart';
 import 'package:assunta/pages/authpages/login_page.dart';
 import 'package:assunta/pages/authpages/signup_page.dart';
@@ -9,7 +9,6 @@ import 'package:assunta/services/database.dart';
 import 'package:provider/provider.dart';
 import 'classes/cart_class.dart';
 import 'classes/user_class.dart';
-import 'file:///C:/Users/Roberto/flutter_projects/assunta/lib/pages/homepage/home_page_main.dart';
 import 'package:flutter/material.dart';
 
 
